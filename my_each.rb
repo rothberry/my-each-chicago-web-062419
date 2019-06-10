@@ -13,5 +13,3 @@ end
 names = ["Tim Jones", "Tom Smith", "Jim Campagno"]
 words = ['hi', 'hello', 'bye', 'goodbye']
 tas = ['arel', 'jon', 'logan', 'spencer']
-
-my_each()
